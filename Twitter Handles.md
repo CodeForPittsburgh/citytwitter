@@ -1,3 +1,6 @@
+# Twitter Handles
+All information gathered in may 2016.
+
 ## Municipality and Departments
 
 Name | Twitter Handle | Notes
@@ -16,14 +19,24 @@ Others |@ |
 * Urban Redevelopment Authority
 
 ## Elected Officials (city level)
-* Bill Peduto
-* All 9 council members
+Name | Twitter Handle | Notes
+-------|------|-----
+**Mayor** William Peduto 			| 	| 
+**Councilwoman** Darlene M. Harris 	| 	| District 1
+**Councilwoman** Theresa Kail-Smith | 	| District 2
+**Council President** Bruce Kraus 	| 	| District 3
+**Councilwoman** Natalia Rudiak		| 	| District 4
+**Councilman** Corey O'Connor 		| 	| District 5
+**Councilman** R. Daniel Lavelle 	| 	| District 6
+**Councilwoman** Deborah Gross 		| 	| District 7
+**Councilman** Daniel Gilman 		| 	| District 8
+**Councilman** Ricky V. Burgess 	| 	| District 9
+
 * Others
 
 ## Appointed Officials // Staff
 Name | Twitter Handle | Notes
 -------|------|-----
-| |
 Laura Meixell, Analytics and Strategy Manager | [@lauratypes](https://twitter.com/lauratypes) | Point Person with the city for all things Open Data
 
 ## Temporary // Durational
