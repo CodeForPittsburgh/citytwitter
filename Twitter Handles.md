@@ -2,7 +2,7 @@
 
 Name | Twitter Handle | Notes
 -------|------|-----
-City of Pittsburgh | @ | 
+City of Pittsburgh | [@CityPGH](https://twitter.com/CityPGH) | Not to be confused with [@CityofPgh](https://twitter.com/CityofPgh), an unverified account which stopped tweeting in 2014.
 Department of Public Works |@ | 
 Police |@ | 
 Innovation and Performance |@ | 
