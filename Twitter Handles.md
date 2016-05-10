@@ -1,5 +1,8 @@
 # Twitter Handles
-All information gathered in may 2016.
+
+### WORK IN PROGRESS
+
+All information gathered in May 2016.
 
 ## Municipality and Departments
 
@@ -37,7 +40,7 @@ Name | Twitter Handle | Notes
 ## Appointed Officials // Staff
 Name | Twitter Handle | Notes
 -------|------|-----
-Laura Meixell, Analytics and Strategy Manager | [@lauratypes](https://twitter.com/lauratypes) | Point Person with the city for all things Open Data
+Laura Meixell, Analytics and Strategy Manager | [@lauratypes](https://twitter.com/lauratypes) | Point person with the City for all things Open Data
 
 ## Temporary // Durational
 [PGH200 - Pittsburgh's Bicentennial](https://twitter.com/PGHBicentennial)
