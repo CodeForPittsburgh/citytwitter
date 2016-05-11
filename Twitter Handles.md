@@ -13,7 +13,6 @@ Department of Public Works 	| [@PGHDPW](https://twitter.com/PGHDPW) 		| Maintain
 Police 						| [@PghPolice](https://twitter.com/PghPolice)| Official Twitter of the Pittsburgh Bureau of Police (PBP). This account is NOT monitored 24/7. In the event of an emergency & to report crime, please call 911.
 Innovation and Performance 	|[@PghIP](https://twitter.com/PghIP) 			| City of Pittsburgh Department of Innovation and Performance
 311 						| [@Pgh311](https://twitter.com/Pgh311) 		| City of Pittsburgh 311 Response Center. Happy to serve Pittsburgh's residents, visitors and commuters.
-Others | [@]() | 
 
 ## Authorities
 Name 									| Twitter Handle 								| Notes
@@ -56,9 +55,10 @@ US EmergAlerts Pennsylvania 	| [@UEA_PA_Alerts](https://twitter.com/UEA_PA_Alert
 PGH BUS INFO					| [@PGH_BUS_INFO](https://twitter.com/pgh_bus_info) 	| 3rd Party Transit Info provider.
 
 ## Past Elected Officials (and Candidates)
-Name 							| Twitter Handle 										| Notes
--------							|------													|-----
-Luke Ravenstahl 				|[@luke_ravenstahl](https://twitter.com/luke_ravenstahl)| Former Mayor, from Sept 1, 2006 to Jan 6, 2014. Previous twitter handles include [@LukeRavenstahl](https://twitter.com/LukeRavenstahl), deprecated in 2010, and [@MayorLuke](https://twitter.com/MayorLuke), which appears to have been wiped of all tweet history, pictures, etc, [soon after Mayor Peduto took office](http://www.pittsburghmagazine.com/Best-of-the-Burgh-Blogs/Pitt-Girl/January-2014/Luke-Ravenstahl-Returns-to-Twitter-to-Act-Like-a-13-Year-Old/). Not to be confused with satirical accounts [@fakeravenstahl](https://twitter.com/fakeravenstahl) and [@fakenstahl](https://twitter.com/fakenstahl).
+Name 							| Twitter Handle 											| Notes
+-------							|------														|-----
+Luke Ravenstahl 				| [@luke_ravenstahl](https://twitter.com/luke_ravenstahl)	| Former Mayor, from Sept 1, 2006 to Jan 6, 2014. Previous twitter handles include [@LukeRavenstahl](https://twitter.com/LukeRavenstahl), deprecated in 2010, and [@MayorLuke](https://twitter.com/MayorLuke), which appears to have been wiped of all tweet history, pictures, etc, [soon after Mayor Peduto took office](http://www.pittsburghmagazine.com/Best-of-the-Burgh-Blogs/Pitt-Girl/January-2014/Luke-Ravenstahl-Returns-to-Twitter-to-Act-Like-a-13-Year-Old/). Not to be confused with satirical accounts [@fakeravenstahl](https://twitter.com/fakeravenstahl) and [@fakenstahl](https://twitter.com/fakenstahl).
+A.J. Richardson					| [@voteaj](https://twitter.com/voteaj) | Mayoral Candidate in the 2013 election, which was eventually won by Bill Peduto. Account lists a single tweet, from March of 2013.
 
 ## Satirical Accounts
 Name 							| Twitter Handle 										| Notes
