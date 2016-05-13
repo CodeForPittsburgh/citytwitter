@@ -15,10 +15,21 @@ Bureau of Police			| [@PghPolice](https://twitter.com/PghPolice)				| Official T
 Innovation and Performance 	|[@PghIP](https://twitter.com/PghIP) 						| City of Pittsburgh Department of Innovation and Performance
 311 						| [@Pgh311](https://twitter.com/Pgh311) 					| City of Pittsburgh 311 Response Center. Happy to serve Pittsburgh's residents, visitors and commuters.
 
-### Zones
+### Police Zones
+In the event of an emergency & to report crime, please call 911.
+
+![](http://i.imgur.com/5fJoMUU.jpg)
+
 Name 								| Twitter Handle 								| Notes
 -------								|------											|-----
-Pittsburgh Bureau of Police Zone 4 	| [@PghZone4](https://twitter.com/PghZone4) 	| In the event of an emergency & to report crime, please call 911.
+Pittsburgh Bureau of Police Zone 1 	| [@PghZone1](https://twitter.com/PghZone1) 	| North Side, Allegheny, and other points North of the Allegheny.
+Pittsburgh Bureau of Police Zone 2 	| [@PghZone2](https://twitter.com/PghZone2) 	| CBD, Hill District, Strip District, Lawrenceville.
+Pittsburgh Bureau of Police Zone 3 	| [@PghZone3](https://twitter.com/PghZone3) 	| Southside, Mount Washington, Hilltop Neighborhoods.
+Pittsburgh Bureau of Police Zone 4 	| [@PghZone4](https://twitter.com/PghZone4) 	| Oakland, Shadyside, Squirrel Hill, Point Breeze, and points south.
+Pittsburgh Bureau of Police Zone 5 	| [@PghZone5](https://twitter.com/PghZone5) 	| Bloomfield, Garfield, Stanton Heights, Morningside, East Liberty, and other points north-east.
+Pittsburgh Bureau of Police Zone 6 	| [@PghZone6](https://twitter.com/PghZone6) 	| Brookline, Beechview, Banksville, Ridgemont, and other points in the West End.
+
+(See map for thorough breakout by neighborhood)
 
 ## Authorities
 Name 									| Twitter Handle 								| Notes
