@@ -4,16 +4,21 @@
 
 All information gathered in May 2016.
 
-## Municipality and Departments
+## Municipality, Departments, and Bureaus
 Name 						| Twitter Handle 											| Notes
 -------						|------														|-----
 City of Pittsburgh 			| [@CityPGH](https://twitter.com/CityPGH) 					| Not to be confused with [@CityofPgh](https://twitter.com/CityofPgh), an unverified account which stopped tweeting in 2014.
 The Office of the Mayor 	| [@TheNextPGH](https://twitter.com/TheNextPGH)				| The Mayor's personal account is listed below.
 Department of Public Works 	| [@PGHDPW](https://twitter.com/PGHDPW) 					| Maintaining city-owned infrastructure including streets, parks, and buildings. Account not monitored 24/7. Please include @PGH311 with any requests for service.
-Department of Public Safety	| [@PghPublicSafety](https://twitter.com/PghPublicSafety) 	| The Pittsburgh Public Safety Dept. includes police, fire, EMS, Emergency Management & Animal Care. Call 911 in an emergency. City of Pittsburgh firefighters are members of __Pittsburgh Fire Fighters IAFF Local No. 1__, which tweets at [@PghFFLocal1](https://twitter.com/PghFFLocal1).
-Police Department			| [@PghPolice](https://twitter.com/PghPolice)				| Official Twitter of the Pittsburgh Bureau of Police (PBP). This account is NOT monitored 24/7. In the event of an emergency & to report crime, please call 911. City of Pittsburgh officers are members of __Fraternal Order of Police Fort Pitt Lodge No. 1__, which tweets at [@foplodge1pgh](https://twitter.com/foplodge1pgh).
+Department of Public Safety	| [@PghPublicSafety](https://twitter.com/PghPublicSafety) 	| The Pittsburgh Public Safety Dept. includes police, fire, EMS, Emergency Management & Animal Care. Call 911 in an emergency. City of Pittsburgh firefighters are members of __Pittsburgh Fire Fighters IAFF Local No. 1__, which tweets at [@PghFFLocal1](https://twitter.com/PghFFLocal1). EMS Paramedics are represented by the __FAPP Local No. 1__, which tweets at [@FappLocal1](https://twitter.com/FappLocal1)
+Bureau of Police			| [@PghPolice](https://twitter.com/PghPolice)				| Official Twitter of the Pittsburgh Bureau of Police (PBP). This account is NOT monitored 24/7. In the event of an emergency & to report crime, please call 911. City of Pittsburgh officers are members of __Fraternal Order of Police Fort Pitt Lodge No. 1__, which tweets at [@foplodge1pgh](https://twitter.com/foplodge1pgh).
 Innovation and Performance 	|[@PghIP](https://twitter.com/PghIP) 						| City of Pittsburgh Department of Innovation and Performance
 311 						| [@Pgh311](https://twitter.com/Pgh311) 					| City of Pittsburgh 311 Response Center. Happy to serve Pittsburgh's residents, visitors and commuters.
+
+### Zones
+Name 								| Twitter Handle 								| Notes
+-------								|------											|-----
+Pittsburgh Bureau of Police Zone 4 	| [@PghZone4](https://twitter.com/PghZone4) 	| In the event of an emergency & to report crime, please call 911.
 
 ## Authorities
 Name 									| Twitter Handle 								| Notes
