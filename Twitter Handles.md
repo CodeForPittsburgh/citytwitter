@@ -40,6 +40,7 @@ Port Authority of Allegheny County		| [@PGHtransit](https://twitter.com/PGHtrans
 Urban Redevelopment Authority			| [@urapgh](https://twitter.com/urapgh) 		| The official Twitter page for the Urban Redevelopment Authority of Pittsburgh, one of the first redevelopment authorities in Pennsylvania.
 Parking Authority						| No Twitter Account 							| 
 Housing Authority						| [@HACP1](https://twitter.com/HACP1) 			| The Housing Authority of the City of Pittsburgh is Pittsburgh's provider of quality, affordable housing; located at 200 Ross Street, Pittsburgh, PA 15219.
+Pittsburgh Parks Conservancy			| [@pittsburghparks](https://twitter.com/pittsburghparks/) | The nonprofit organization which, through a public-private partnership agreement, restores the city's four regional parks: Frick, Highland, Riverview, and Schenley.
 
 ## Elected Officials (city level)
 ### Individuals
