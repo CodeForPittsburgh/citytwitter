@@ -32,9 +32,9 @@ Name | Twitter Handle | Notes
 **Councilwoman** Natalia Rudiak		| [@nataliarudiak](https://twitter.com/nataliarudiak)  		| District 4
 **Councilman** Corey O'Connor 		| [@CoreyOConnorPGH](https://twitter.com/CoreyOConnorPGH)  	| District 5
 **Councilman** R. Daniel Lavelle 	| [@RDLavelle](https://twitter.com/RDLavelle)  				| District 6
-**Councilwoman** Deborah Gross 		| [@]()  	| District 7
-**Councilman** Daniel Gilman 		| [@]()  	| District 8
-**Councilman** Ricky V. Burgess 	| [@]()  	| District 9
+**Councilwoman** Deborah Gross 		| [@DebGrossPGH](https://twitter.com/DebGrossPGH)  	| District 7
+**Councilman** Daniel Gilman 		| [@DanielGilman](https://twitter.com/DanielGilman)  	| District 8
+**Councilman** Ricky V. Burgess 	| [@RickyBurgessPGH](https://twitter.com/RickyBurgessPGH)  	| District 9
 
 * Others
 
