@@ -33,7 +33,7 @@ Pittsburgh Bureau of Police Zone 6 	| [@PghZone6](https://twitter.com/PghZone6) 
 
 (See map for thorough breakout by neighborhood)
 
-## Authorities
+## Authorities & Partnerships
 Name 									| Twitter Handle 								| Notes
 -------									|------											|-----
 Port Authority of Allegheny County		| [@PGHtransit](https://twitter.com/PGHtransit) | Not to be confused with satirical accounts [@PGHtransitSucks](https://twitter.com/PGHtransitSucks), [@FakePGHtransit](https://twitter.com/fakePGHtransit), or the 3rd Party Transit Info provider [@PGH_BUS_INFO](https://twitter.com/pgh_bus_info).
