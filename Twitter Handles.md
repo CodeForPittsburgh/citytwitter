@@ -69,6 +69,7 @@ Council Office for District 8 		| [@PGHDistrict8](https://twitter.com/PGHDistric
 Name 											| Twitter Handle 										| Notes
 -------											|------													|-----
 Laura Meixell, Analytics and Strategy Manager 	| [@lauratypes](https://twitter.com/lauratypes) 		| Point person with the City for all things Open Data. Works out of the [@PghIP](https://twitter.com/PghIP).
+Erika Strassburger								| [@erikastrassbrgr](https://twitter.com/erikastrassbrgr/) | Chief of Staff for Councilman [@DanielGilman](https://twitter.com/DanielGilman).
 Hersh Merenstein								| [@TheRealHershM](https://twitter.com/TheRealHershM)	| Legislative Assistant for Councilman  [@DanielGilman](https://twitter.com/DanielGilman).
 Dan Honan										| [@DanHonan1](https://twitter.com/DanHonan1)			| Detective, Major Crimes
 Frankie the Fish   | [@alcosan_frankie](https://twitter.com/alcosan_frankie)  | Official creepy fish mascot of [@AlcosanWWTP](https://twitter.com/AlcosanWWTP) (check out those abs!)
