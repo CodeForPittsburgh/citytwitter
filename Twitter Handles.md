@@ -69,6 +69,8 @@ Council Office for District 8 		| [@PGHDistrict8](https://twitter.com/PGHDistric
 Name 											| Twitter Handle 										| Notes
 -------											|------													|-----
 Laura Meixell, Analytics and Strategy Manager 	| [@lauratypes](https://twitter.com/lauratypes) 		| Point person with the City for all things Open Data. Works out of the [@PghIP](https://twitter.com/PghIP).
+Ashleigh Deemer									| [@AshleighDeemer](https://twitter.com/AshleighDeemer/)										| Chief of Staff for Councilwoman [@nataliarudiak](https://twitter.com/nataliarudiak).
+Bethani Cameron									| [@BethaniCameron](https://twitter.com/BethaniCameron/)| Staffperson for Councilwoman [@nataliarudiak](https://twitter.com/nataliarudiak).
 Erika Strassburger								| [@erikastrassbrgr](https://twitter.com/erikastrassbrgr/) | Chief of Staff for Councilman [@DanielGilman](https://twitter.com/DanielGilman).
 Hersh Merenstein								| [@TheRealHershM](https://twitter.com/TheRealHershM)	| Legislative Assistant for Councilman  [@DanielGilman](https://twitter.com/DanielGilman).
 Dan Honan										| [@DanHonan1](https://twitter.com/DanHonan1)			| Detective, Major Crimes
