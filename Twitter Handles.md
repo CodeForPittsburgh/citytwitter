@@ -16,6 +16,7 @@ Department of Innovation and Performance 	|[@PghIP](https://twitter.com/PghIP) 	
 311 						| [@Pgh311](https://twitter.com/Pgh311) 					| City of Pittsburgh 311 Response Center. Happy to serve Pittsburgh's residents, visitors and commuters.
 City Controller's Office	| [@FiscalFocusPGH](https://twitter.com/FiscalFocusPGH/)	|
 Department of City Planning	| [@PLANPGH](https://twitter.com/PLANPGH/)					| Pittsburgh City Planning works with partners to develop policies and plans for a city that is vibrant, innovative, inclusive, and sustainable.
+Emergency Management | [@PittsburghOEMHS](https://twitter.com/PittsburghOEMHS) | City of Pittsburgh Office of Emergency Management & Homeland Security, planning for and responding to emergencies in the City of Pittsburgh Area.
 
 ### Police Zones
 In the event of an emergency & to report crime, please call 911.
