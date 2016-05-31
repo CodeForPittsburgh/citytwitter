@@ -105,4 +105,4 @@ Fake Luke Ravenstahl			|[@fakeravenstahl](https://twitter.com/fakeravenstahl)	| 
 Fakenstahl						|[@fakenstahl](https://twitter.com/fakenstahl)			| Last tweeted October 2010
 Port Authority Sucks			|[@PGHtransitSucks](https://twitter.com/PGHtransitSucks)|
 Fake Port Authority				|[@FakePGHtransit](https://twitter.com/fakePGHtransit)	|
-Not Bruce Krause				|[@NotBruceKraus](https://twitter.com/NotBruceKraus)	| Last tweeted Nov 2015
+Not Bruce Kraus					|[@NotBruceKraus](https://twitter.com/NotBruceKraus)	| Last tweeted Nov 2015
